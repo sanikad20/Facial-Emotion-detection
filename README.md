@@ -1,4 +1,4 @@
-🎭 Facial Emotion Recognition (FER) Using Deep Learning
+#🎭 Facial Emotion Recognition (FER) Using Deep Learning
 
 This project implements a Facial Emotion Recognition model that predicts human emotions from facial images using a Convolutional Neural Network (CNN).
 The model is trained on the FER-2013 dataset and can classify the following 7 emotions:
